@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ni0MB42e2XnQaCGWKa2mjjdEHwtFK/YbQQhXYcLc9BdpQEcvbA/sTYTOCIKBLQ2ieg677sCTpWg2CZwGG1640w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Glenn\\Downloads\\Xtrem_Scale_Code_Example\\Xtrem_Scale_Code_Example\\Network\\Xtrem_Scale_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Glenn\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Glenn\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

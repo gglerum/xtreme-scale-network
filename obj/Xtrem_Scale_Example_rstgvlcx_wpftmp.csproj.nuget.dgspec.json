@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Glenn\\Downloads\\Xtrem_Scale_Code_Example\\Xtrem_Scale_Code_Example\\Network\\Xtrem_Scale_Example.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Glenn\\Downloads\\Xtrem_Scale_Code_Example\\Xtrem_Scale_Code_Example\\Network\\Xtrem_Scale_Example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Glenn\\Downloads\\Xtrem_Scale_Code_Example\\Xtrem_Scale_Code_Example\\Network\\Xtrem_Scale_Example.csproj",
+        "projectName": "Xtrem_Scale_Example",
+        "projectPath": "C:\\Users\\Glenn\\Downloads\\Xtrem_Scale_Code_Example\\Xtrem_Scale_Code_Example\\Network\\Xtrem_Scale_Example.csproj",
+        "packagesPath": "C:\\Users\\Glenn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Glenn\\Downloads\\Xtrem_Scale_Code_Example\\Xtrem_Scale_Code_Example\\Network\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Glenn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
